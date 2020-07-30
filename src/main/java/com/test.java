@@ -8,5 +8,6 @@ public class test {
         m.setId(1);
         System.out.println(m.getId());
         System.out.println("add line");
+        System.out.println("add two");
     }
 }
