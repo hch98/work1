@@ -7,5 +7,6 @@ public class test {
         my m=new my();
         m.setId(1);
         System.out.println(m.getId());
+        System.out.println("aaaaaa dev");
     }
 }
